@@ -265,17 +265,13 @@ margin-right: auto;
 #featuretitle1 {
   font-family: 'open sans';
   font-size: 24px;
-  color: #596062;
   text-align: center;
   position: relative;
-  top: 10px;
 }
 
 #featuretitle2 {
   font-family: 'open sans';
   font-size: 15px;
-  color: #596062;
   text-align: center;
   position: relative;
-  top: 1px;
 }
